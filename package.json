@@ -1,0 +1,16 @@
+{
+  "name": "tracing",
+  "version": "1.0.0",
+  "description": "Simple demo of distributed tracing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Spencer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lerna": "^3.22.1",
+    "opentracing": "^0.14.4"
+  }
+}
